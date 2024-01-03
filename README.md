@@ -10,7 +10,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Web development | AI**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **icredu98@gmail.com**
   
